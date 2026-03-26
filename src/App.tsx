@@ -250,7 +250,7 @@ export default function App() {
                   <h4 className="text-2xl font-display font-bold">Website Setup</h4>
                   <p className="text-text-secondary mt-1">One-time payment</p>
                 </div>
-                <div className="text-3xl font-display font-extrabold text-accent-gold">₹3,000 – ₹5,000</div>
+                <div className="text-3xl font-display font-extrabold text-accent-gold">₹5,000</div>
               </div>
               <div className="flex flex-col sm:flex-row justify-between sm:items-center border-b border-white/5 pb-8 gap-4">
                 <div>
@@ -261,7 +261,7 @@ export default function App() {
               </div>
               <div className="flex flex-col sm:flex-row justify-between sm:items-center gap-4">
                 <div>
-                  <h4 className="text-2xl font-display font-bold">Optional Maintenance</h4>
+                  <h4 className="text-2xl font-display font-bold">Maintenance</h4>
                   <p className="text-text-secondary mt-1">Per month</p>
                 </div>
                 <div className="text-3xl font-display font-extrabold text-accent-gold">₹799</div>
